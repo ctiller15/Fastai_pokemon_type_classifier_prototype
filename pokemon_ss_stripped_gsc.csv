@@ -1,0 +1,754 @@
+Nat,Pokemon,Type
+1-g,Bulbasaur,Grass Poison
+2-g,Ivysaur,Grass Poison
+3-g,Venusaur,Grass Poison
+4-g,Charmander,Fire
+5-g,Charmeleon,Fire
+6-g,Charizard,Fire Flying
+7-g,Squirtle,Water
+8-g,Wartortle,Water
+9-g,Blastoise,Water
+10-g,Caterpie,Bug
+11-g,Metapod,Bug
+12-g,Butterfree,Bug Flying
+13-g,Weedle,Bug Poison
+14-g,Kakuna,Bug Poison
+15-g,Beedrill,Bug Poison
+16-g,Pidgey,Normal Flying
+17-g,Pidgeotto,Normal Flying
+18-g,Pidgeot,Normal Flying
+19-g,Rattata,Normal
+20-g,Raticate,Normal
+21-g,Spearow,Normal Flying
+22-g,Fearow,Normal Flying
+23-g,Ekans,Poison
+24-g,Arbok,Poison
+25-g,Pikachu,Electric
+26-g,Raichu,Electric
+27-g,Sandshrew,Ground
+28-g,Sandslash,Ground
+29-g,Nidoran ♀,Poison
+30-g,Nidorina,Poison
+31-g,Nidoqueen,Poison Ground
+32-g,Nidoran ♂,Poison
+33-g,Nidorino,Poison
+34-g,Nidoking,Poison Ground
+35-g,Clefairy,Normal
+36-g,Clefable,Normal
+37-g,Vulpix,Fire
+38-g,Ninetales,Fire
+39-g,Jigglypuff,Normal
+40-g,Wigglytuff,Normal
+41-g,Zubat,Poison Flying
+42-g,Golbat,Poison Flying
+43-g,Oddish,Grass Poison
+44-g,Gloom,Grass Poison
+45-g,Vileplume,Grass Poison
+46-g,Paras,Bug Grass
+47-g,Parasect,Bug Grass
+48-g,Venonat,Bug Poison
+49-g,Venomoth,Bug Poison
+50-g,Diglett,Ground
+51-g,Dugtrio,Ground
+52-g,Meowth,Normal
+53-g,Persian,Normal
+54-g,Psyduck,Water
+55-g,Golduck,Water
+56-g,Mankey,Fighting
+57-g,Primeape,Fighting
+58-g,Growlithe,Fire
+59-g,Arcanine,Fire
+60-g,Poliwag,Water
+61-g,Poliwhirl,Water
+62-g,Poliwrath,Water Fighting
+63-g,Abra,Psychic
+64-g,Kadabra,Psychic
+65-g,Alakazam,Psychic
+66-g,Machop,Fighting
+67-g,Machoke,Fighting
+68-g,Machamp,Fighting
+69-g,Bellsprout,Grass Poison
+70-g,Weepinbell,Grass Poison
+71-g,Victreebel,Grass Poison
+72-g,Tentacool,Water Poison
+73-g,Tentacruel,Water Poison
+74-g,Geodude,Rock Ground
+75-g,Graveler,Rock Ground
+76-g,Golem,Rock Ground
+77-g,Ponyta,Fire
+78-g,Rapidash,Fire
+79-g,Slowpoke,Water Psychic
+80-g,Slowbro,Water Psychic
+81-g,Magnemite,Electric Steel
+82-g,Magneton,Electric Steel
+83-g,Farfetch'd,Normal Flying
+84-g,Doduo,Normal Flying
+85-g,Dodrio,Normal Flying
+86-g,Seel,Water
+87-g,Dewgong,Water Ice
+88-g,Grimer,Poison
+89-g,Muk,Poison
+90-g,Shellder,Water
+91-g,Cloyster,Water Ice
+92-g,Gastly,Ghost Poison
+93-g,Haunter,Ghost Poison
+94-g,Gengar,Ghost Poison
+95-g,Onix,Rock Ground
+96-g,Drowzee,Psychic
+97-g,Hypno,Psychic
+98-g,Krabby,Water
+99-g,Kingler,Water
+100-g,Voltorb,Electric
+101-g,Electrode,Electric
+102-g,Exeggcute,Grass Psychic
+103-g,Exeggutor,Grass Psychic
+104-g,Cubone,Ground
+105-g,Marowak,Ground
+106-g,Hitmonlee,Fighting
+107-g,Hitmonchan,Fighting
+108-g,Lickitung,Normal
+109-g,Koffing,Poison
+110-g,Weezing,Poison
+111-g,Rhyhorn,Ground Rock
+112-g,Rhydon,Ground Rock
+113-g,Chansey,Normal
+114-g,Tangela,Grass
+115-g,Kangaskhan,Normal
+116-g,Horsea,Water
+117-g,Seadra,Water
+118-g,Goldeen,Water
+119-g,Seaking,Water
+120-g,Staryu,Water
+121-g,Starmie,Water Psychic
+122-g,Mr. Mime,Psychic
+123-g,Scyther,Bug Flying
+124-g,Jynx,Ice Psychic
+125-g,Electabuzz,Electric
+126-g,Magmar,Fire
+127-g,Pinsir,Bug
+128-g,Tauros,Normal
+129-g,Magikarp,Water
+130-g,Gyarados,Water Flying
+131-g,Lapras,Water Ice
+132-g,Ditto,Normal
+133-g,Eevee,Normal
+134-g,Vaporeon,Water
+135-g,Jolteon,Electric
+136-g,Flareon,Fire
+137-g,Porygon,Normal
+138-g,Omanyte,Rock Water
+139-g,Omastar,Rock Water
+140-g,Kabuto,Rock Water
+141-g,Kabutops,Rock Water
+142-g,Aerodactyl,Rock Flying
+143-g,Snorlax,Normal
+144-g,Articuno,Ice Flying
+145-g,Zapdos,Electric Flying
+146-g,Moltres,Fire Flying
+147-g,Dratini,Dragon
+148-g,Dragonair,Dragon
+149-g,Dragonite,Dragon Flying
+150-g,Mewtwo,Psychic
+151-g,Mew,Psychic
+152-g,Chikorita,Grass
+153-g,Bayleef,Grass
+154-g,Meganium,Grass
+155-g,Cyndaquil,Fire
+156-g,Quilava,Fire
+157-g,Typhlosion,Fire
+158-g,Totodile,Water
+159-g,Croconaw,Water
+160-g,Feraligatr,Water
+161-g,Sentret,Normal
+162-g,Furret,Normal
+163-g,Hoothoot,Normal Flying
+164-g,Noctowl,Normal Flying
+165-g,Ledyba,Bug Flying
+166-g,Ledian,Bug Flying
+167-g,Spinarak,Bug Poison
+168-g,Ariados,Bug Poison
+169-g,Crobat,Poison Flying
+170-g,Chinchou,Water Electric
+171-g,Lanturn,Water Electric
+172-g,Pichu,Electric
+173-g,Cleffa,Normal
+174-g,Igglybuff,Normal
+175-g,Togepi,Normal
+176-g,Togetic,Normal Flying
+177-g,Natu,Psychic Flying
+178-g,Xatu,Psychic Flying
+179-g,Mareep,Electric
+180-g,Flaaffy,Electric
+181-g,Ampharos,Electric
+182-g,Bellossom,Grass
+183-g,Marill,Water
+184-g,Azumarill,Water
+185-g,Sudowoodo,Rock
+186-g,Politoed,Water
+187-g,Hoppip,Grass Flying
+188-g,Skiploom,Grass Flying
+189-g,Jumpluff,Grass Flying
+190-g,Aipom,Normal
+191-g,Sunkern,Grass
+192-g,Sunflora,Grass
+193-g,Yanma,Bug Flying
+194-g,Wooper,Water Ground
+195-g,Quagsire,Water Ground
+196-g,Espeon,Psychic
+197-g,Umbreon,Dark
+198-g,Murkrow,Dark Flying
+199-g,Slowking,Water Psychic
+200-g,Misdreavus,Ghost
+201-g,Unown,Psychic
+202-g,Wobbuffet,Psychic
+203-g,Girafarig,Normal Psychic
+204-g,Pineco,Bug
+205-g,Forretress,Bug Steel
+206-g,Dunsparce,Normal
+207-g,Gligar,Ground Flying
+208-g,Steelix,Steel Ground
+209-g,Snubbull,Normal
+210-g,Granbull,Normal
+211-g,Qwilfish,Water Poison
+212-g,Scizor,Bug Steel
+213-g,Shuckle,Bug Rock
+214-g,Heracross,Bug Fighting
+215-g,Sneasel,Dark Ice
+216-g,Teddiursa,Normal
+217-g,Ursaring,Normal
+218-g,Slugma,Fire
+219-g,Magcargo,Fire Rock
+220-g,Swinub,Ice Ground
+221-g,Piloswine,Ice Ground
+222-g,Corsola,Water Rock
+223-g,Remoraid,Water
+224-g,Octillery,Water
+225-g,Delibird,Ice Flying
+226-g,Mantine,Water Flying
+227-g,Skarmory,Steel Flying
+228-g,Houndour,Dark Fire
+229-g,Houndoom,Dark Fire
+230-g,Kingdra,Water Dragon
+231-g,Phanpy,Ground
+232-g,Donphan,Ground
+233-g,Porygon2,Normal
+234-g,Stantler,Normal
+235-g,Smeargle,Normal
+236-g,Tyrogue,Fighting
+237-g,Hitmontop,Fighting
+238-g,Smoochum,Ice Psychic
+239-g,Elekid,Electric
+240-g,Magby,Fire
+241-g,Miltank,Normal
+242-g,Blissey,Normal
+243-g,Raikou,Electric
+244-g,Entei,Fire
+245-g,Suicune,Water
+246-g,Larvitar,Rock Ground
+247-g,Pupitar,Rock Ground
+248-g,Tyranitar,Rock Dark
+249-g,Lugia,Psychic Flying
+250-g,Ho-oh,Fire Flying
+251-g,Celebi,Psychic Grass
+1-s,Bulbasaur,Grass Poison
+2-s,Ivysaur,Grass Poison
+3-s,Venusaur,Grass Poison
+4-s,Charmander,Fire
+5-s,Charmeleon,Fire
+6-s,Charizard,Fire Flying
+7-s,Squirtle,Water
+8-s,Wartortle,Water
+9-s,Blastoise,Water
+10-s,Caterpie,Bug
+11-s,Metapod,Bug
+12-s,Butterfree,Bug Flying
+13-s,Weedle,Bug Poison
+14-s,Kakuna,Bug Poison
+15-s,Beedrill,Bug Poison
+16-s,Pidgey,Normal Flying
+17-s,Pidgeotto,Normal Flying
+18-s,Pidgeot,Normal Flying
+19-s,Rattata,Normal
+20-s,Raticate,Normal
+21-s,Spearow,Normal Flying
+22-s,Fearow,Normal Flying
+23-s,Ekans,Poison
+24-s,Arbok,Poison
+25-s,Pikachu,Electric
+26-s,Raichu,Electric
+27-s,Sandshrew,Ground
+28-s,Sandslash,Ground
+29-s,Nidoran ♀,Poison
+30-s,Nidorina,Poison
+31-s,Nidoqueen,Poison Ground
+32-s,Nidoran ♂,Poison
+33-s,Nidorino,Poison
+34-s,Nidoking,Poison Ground
+35-s,Clefairy,Normal
+36-s,Clefable,Normal
+37-s,Vulpix,Fire
+38-s,Ninetales,Fire
+39-s,Jigglypuff,Normal
+40-s,Wigglytuff,Normal
+41-s,Zubat,Poison Flying
+42-s,Golbat,Poison Flying
+43-s,Oddish,Grass Poison
+44-s,Gloom,Grass Poison
+45-s,Vileplume,Grass Poison
+46-s,Paras,Bug Grass
+47-s,Parasect,Bug Grass
+48-s,Venonat,Bug Poison
+49-s,Venomoth,Bug Poison
+50-s,Diglett,Ground
+51-s,Dugtrio,Ground
+52-s,Meowth,Normal
+53-s,Persian,Normal
+54-s,Psyduck,Water
+55-s,Golduck,Water
+56-s,Mankey,Fighting
+57-s,Primeape,Fighting
+58-s,Growlithe,Fire
+59-s,Arcanine,Fire
+60-s,Poliwag,Water
+61-s,Poliwhirl,Water
+62-s,Poliwrath,Water Fighting
+63-s,Abra,Psychic
+64-s,Kadabra,Psychic
+65-s,Alakazam,Psychic
+66-s,Machop,Fighting
+67-s,Machoke,Fighting
+68-s,Machamp,Fighting
+69-s,Bellsprout,Grass Poison
+70-s,Weepinbell,Grass Poison
+71-s,Victreebel,Grass Poison
+72-s,Tentacool,Water Poison
+73-s,Tentacruel,Water Poison
+74-s,Geodude,Rock Ground
+75-s,Graveler,Rock Ground
+76-s,Golem,Rock Ground
+77-s,Ponyta,Fire
+78-s,Rapidash,Fire
+79-s,Slowpoke,Water Psychic
+80-s,Slowbro,Water Psychic
+81-s,Magnemite,Electric Steel
+82-s,Magneton,Electric Steel
+83-s,Farfetch'd,Normal Flying
+84-s,Doduo,Normal Flying
+85-s,Dodrio,Normal Flying
+86-s,Seel,Water
+87-s,Dewgong,Water Ice
+88-s,Grimer,Poison
+89-s,Muk,Poison
+90-s,Shellder,Water
+91-s,Cloyster,Water Ice
+92-s,Gastly,Ghost Poison
+93-s,Haunter,Ghost Poison
+94-s,Gengar,Ghost Poison
+95-s,Onix,Rock Ground
+96-s,Drowzee,Psychic
+97-s,Hypno,Psychic
+98-s,Krabby,Water
+99-s,Kingler,Water
+100-s,Voltorb,Electric
+101-s,Electrode,Electric
+102-s,Exeggcute,Grass Psychic
+103-s,Exeggutor,Grass Psychic
+104-s,Cubone,Ground
+105-s,Marowak,Ground
+106-s,Hitmonlee,Fighting
+107-s,Hitmonchan,Fighting
+108-s,Lickitung,Normal
+109-s,Koffing,Poison
+110-s,Weezing,Poison
+111-s,Rhyhorn,Ground Rock
+112-s,Rhydon,Ground Rock
+113-s,Chansey,Normal
+114-s,Tangela,Grass
+115-s,Kangaskhan,Normal
+116-s,Horsea,Water
+117-s,Seadra,Water
+118-s,Goldeen,Water
+119-s,Seaking,Water
+120-s,Staryu,Water
+121-s,Starmie,Water Psychic
+122-s,Mr. Mime,Psychic
+123-s,Scyther,Bug Flying
+124-s,Jynx,Ice Psychic
+125-s,Electabuzz,Electric
+126-s,Magmar,Fire
+127-s,Pinsir,Bug
+128-s,Tauros,Normal
+129-s,Magikarp,Water
+130-s,Gyarados,Water Flying
+131-s,Lapras,Water Ice
+132-s,Ditto,Normal
+133-s,Eevee,Normal
+134-s,Vaporeon,Water
+135-s,Jolteon,Electric
+136-s,Flareon,Fire
+137-s,Porygon,Normal
+138-s,Omanyte,Rock Water
+139-s,Omastar,Rock Water
+140-s,Kabuto,Rock Water
+141-s,Kabutops,Rock Water
+142-s,Aerodactyl,Rock Flying
+143-s,Snorlax,Normal
+144-s,Articuno,Ice Flying
+145-s,Zapdos,Electric Flying
+146-s,Moltres,Fire Flying
+147-s,Dratini,Dragon
+148-s,Dragonair,Dragon
+149-s,Dragonite,Dragon Flying
+150-s,Mewtwo,Psychic
+151-s,Mew,Psychic
+152-s,Chikorita,Grass
+153-s,Bayleef,Grass
+154-s,Meganium,Grass
+155-s,Cyndaquil,Fire
+156-s,Quilava,Fire
+157-s,Typhlosion,Fire
+158-s,Totodile,Water
+159-s,Croconaw,Water
+160-s,Feraligatr,Water
+161-s,Sentret,Normal
+162-s,Furret,Normal
+163-s,Hoothoot,Normal Flying
+164-s,Noctowl,Normal Flying
+165-s,Ledyba,Bug Flying
+166-s,Ledian,Bug Flying
+167-s,Spinarak,Bug Poison
+168-s,Ariados,Bug Poison
+169-s,Crobat,Poison Flying
+170-s,Chinchou,Water Electric
+171-s,Lanturn,Water Electric
+172-s,Pichu,Electric
+173-s,Cleffa,Normal
+174-s,Igglybuff,Normal
+175-s,Togepi,Normal
+176-s,Togetic,Normal Flying
+177-s,Natu,Psychic Flying
+178-s,Xatu,Psychic Flying
+179-s,Mareep,Electric
+180-s,Flaaffy,Electric
+181-s,Ampharos,Electric
+182-s,Bellossom,Grass
+183-s,Marill,Water
+184-s,Azumarill,Water
+185-s,Sudowoodo,Rock
+186-s,Politoed,Water
+187-s,Hoppip,Grass Flying
+188-s,Skiploom,Grass Flying
+189-s,Jumpluff,Grass Flying
+190-s,Aipom,Normal
+191-s,Sunkern,Grass
+192-s,Sunflora,Grass
+193-s,Yanma,Bug Flying
+194-s,Wooper,Water Ground
+195-s,Quagsire,Water Ground
+196-s,Espeon,Psychic
+197-s,Umbreon,Dark
+198-s,Murkrow,Dark Flying
+199-s,Slowking,Water Psychic
+200-s,Misdreavus,Ghost
+201-s,Unown,Psychic
+202-s,Wobbuffet,Psychic
+203-s,Girafarig,Normal Psychic
+204-s,Pineco,Bug
+205-s,Forretress,Bug Steel
+206-s,Dunsparce,Normal
+207-s,Gligar,Ground Flying
+208-s,Steelix,Steel Ground
+209-s,Snubbull,Normal
+210-s,Granbull,Normal
+211-s,Qwilfish,Water Poison
+212-s,Scizor,Bug Steel
+213-s,Shuckle,Bug Rock
+214-s,Heracross,Bug Fighting
+215-s,Sneasel,Dark Ice
+216-s,Teddiursa,Normal
+217-s,Ursaring,Normal
+218-s,Slugma,Fire
+219-s,Magcargo,Fire Rock
+220-s,Swinub,Ice Ground
+221-s,Piloswine,Ice Ground
+222-s,Corsola,Water Rock
+223-s,Remoraid,Water
+224-s,Octillery,Water
+225-s,Delibird,Ice Flying
+226-s,Mantine,Water Flying
+227-s,Skarmory,Steel Flying
+228-s,Houndour,Dark Fire
+229-s,Houndoom,Dark Fire
+230-s,Kingdra,Water Dragon
+231-s,Phanpy,Ground
+232-s,Donphan,Ground
+233-s,Porygon2,Normal
+234-s,Stantler,Normal
+235-s,Smeargle,Normal
+236-s,Tyrogue,Fighting
+237-s,Hitmontop,Fighting
+238-s,Smoochum,Ice Psychic
+239-s,Elekid,Electric
+240-s,Magby,Fire
+241-s,Miltank,Normal
+242-s,Blissey,Normal
+243-s,Raikou,Electric
+244-s,Entei,Fire
+245-s,Suicune,Water
+246-s,Larvitar,Rock Ground
+247-s,Pupitar,Rock Ground
+248-s,Tyranitar,Rock Dark
+249-s,Lugia,Psychic Flying
+250-s,Ho-oh,Fire Flying
+251-s,Celebi,Psychic Grass
+1-c,Bulbasaur,Grass Poison
+2-c,Ivysaur,Grass Poison
+3-c,Venusaur,Grass Poison
+4-c,Charmander,Fire
+5-c,Charmeleon,Fire
+6-c,Charizard,Fire Flying
+7-c,Squirtle,Water
+8-c,Wartortle,Water
+9-c,Blastoise,Water
+10-c,Caterpie,Bug
+11-c,Metapod,Bug
+12-c,Butterfree,Bug Flying
+13-c,Weedle,Bug Poison
+14-c,Kakuna,Bug Poison
+15-c,Beedrill,Bug Poison
+16-c,Pidgey,Normal Flying
+17-c,Pidgeotto,Normal Flying
+18-c,Pidgeot,Normal Flying
+19-c,Rattata,Normal
+20-c,Raticate,Normal
+21-c,Spearow,Normal Flying
+22-c,Fearow,Normal Flying
+23-c,Ekans,Poison
+24-c,Arbok,Poison
+25-c,Pikachu,Electric
+26-c,Raichu,Electric
+27-c,Sandshrew,Ground
+28-c,Sandslash,Ground
+29-c,Nidoran ♀,Poison
+30-c,Nidorina,Poison
+31-c,Nidoqueen,Poison Ground
+32-c,Nidoran ♂,Poison
+33-c,Nidorino,Poison
+34-c,Nidoking,Poison Ground
+35-c,Clefairy,Normal
+36-c,Clefable,Normal
+37-c,Vulpix,Fire
+38-c,Ninetales,Fire
+39-c,Jigglypuff,Normal
+40-c,Wigglytuff,Normal
+41-c,Zubat,Poison Flying
+42-c,Golbat,Poison Flying
+43-c,Oddish,Grass Poison
+44-c,Gloom,Grass Poison
+45-c,Vileplume,Grass Poison
+46-c,Paras,Bug Grass
+47-c,Parasect,Bug Grass
+48-c,Venonat,Bug Poison
+49-c,Venomoth,Bug Poison
+50-c,Diglett,Ground
+51-c,Dugtrio,Ground
+52-c,Meowth,Normal
+53-c,Persian,Normal
+54-c,Psyduck,Water
+55-c,Golduck,Water
+56-c,Mankey,Fighting
+57-c,Primeape,Fighting
+58-c,Growlithe,Fire
+59-c,Arcanine,Fire
+60-c,Poliwag,Water
+61-c,Poliwhirl,Water
+62-c,Poliwrath,Water Fighting
+63-c,Abra,Psychic
+64-c,Kadabra,Psychic
+65-c,Alakazam,Psychic
+66-c,Machop,Fighting
+67-c,Machoke,Fighting
+68-c,Machamp,Fighting
+69-c,Bellsprout,Grass Poison
+70-c,Weepinbell,Grass Poison
+71-c,Victreebel,Grass Poison
+72-c,Tentacool,Water Poison
+73-c,Tentacruel,Water Poison
+74-c,Geodude,Rock Ground
+75-c,Graveler,Rock Ground
+76-c,Golem,Rock Ground
+77-c,Ponyta,Fire
+78-c,Rapidash,Fire
+79-c,Slowpoke,Water Psychic
+80-c,Slowbro,Water Psychic
+81-c,Magnemite,Electric Steel
+82-c,Magneton,Electric Steel
+83-c,Farfetch'd,Normal Flying
+84-c,Doduo,Normal Flying
+85-c,Dodrio,Normal Flying
+86-c,Seel,Water
+87-c,Dewgong,Water Ice
+88-c,Grimer,Poison
+89-c,Muk,Poison
+90-c,Shellder,Water
+91-c,Cloyster,Water Ice
+92-c,Gastly,Ghost Poison
+93-c,Haunter,Ghost Poison
+94-c,Gengar,Ghost Poison
+95-c,Onix,Rock Ground
+96-c,Drowzee,Psychic
+97-c,Hypno,Psychic
+98-c,Krabby,Water
+99-c,Kingler,Water
+100-c,Voltorb,Electric
+101-c,Electrode,Electric
+102-c,Exeggcute,Grass Psychic
+103-c,Exeggutor,Grass Psychic
+104-c,Cubone,Ground
+105-c,Marowak,Ground
+106-c,Hitmonlee,Fighting
+107-c,Hitmonchan,Fighting
+108-c,Lickitung,Normal
+109-c,Koffing,Poison
+110-c,Weezing,Poison
+111-c,Rhyhorn,Ground Rock
+112-c,Rhydon,Ground Rock
+113-c,Chansey,Normal
+114-c,Tangela,Grass
+115-c,Kangaskhan,Normal
+116-c,Horsea,Water
+117-c,Seadra,Water
+118-c,Goldeen,Water
+119-c,Seaking,Water
+120-c,Staryu,Water
+121-c,Starmie,Water Psychic
+122-c,Mr. Mime,Psychic
+123-c,Scyther,Bug Flying
+124-c,Jynx,Ice Psychic
+125-c,Electabuzz,Electric
+126-c,Magmar,Fire
+127-c,Pinsir,Bug
+128-c,Tauros,Normal
+129-c,Magikarp,Water
+130-c,Gyarados,Water Flying
+131-c,Lapras,Water Ice
+132-c,Ditto,Normal
+133-c,Eevee,Normal
+134-c,Vaporeon,Water
+135-c,Jolteon,Electric
+136-c,Flareon,Fire
+137-c,Porygon,Normal
+138-c,Omanyte,Rock Water
+139-c,Omastar,Rock Water
+140-c,Kabuto,Rock Water
+141-c,Kabutops,Rock Water
+142-c,Aerodactyl,Rock Flying
+143-c,Snorlax,Normal
+144-c,Articuno,Ice Flying
+145-c,Zapdos,Electric Flying
+146-c,Moltres,Fire Flying
+147-c,Dratini,Dragon
+148-c,Dragonair,Dragon
+149-c,Dragonite,Dragon Flying
+150-c,Mewtwo,Psychic
+151-c,Mew,Psychic
+152-c,Chikorita,Grass
+153-c,Bayleef,Grass
+154-c,Meganium,Grass
+155-c,Cyndaquil,Fire
+156-c,Quilava,Fire
+157-c,Typhlosion,Fire
+158-c,Totodile,Water
+159-c,Croconaw,Water
+160-c,Feraligatr,Water
+161-c,Sentret,Normal
+162-c,Furret,Normal
+163-c,Hoothoot,Normal Flying
+164-c,Noctowl,Normal Flying
+165-c,Ledyba,Bug Flying
+166-c,Ledian,Bug Flying
+167-c,Spinarak,Bug Poison
+168-c,Ariados,Bug Poison
+169-c,Crobat,Poison Flying
+170-c,Chinchou,Water Electric
+171-c,Lanturn,Water Electric
+172-c,Pichu,Electric
+173-c,Cleffa,Normal
+174-c,Igglybuff,Normal
+175-c,Togepi,Normal
+176-c,Togetic,Normal Flying
+177-c,Natu,Psychic Flying
+178-c,Xatu,Psychic Flying
+179-c,Mareep,Electric
+180-c,Flaaffy,Electric
+181-c,Ampharos,Electric
+182-c,Bellossom,Grass
+183-c,Marill,Water
+184-c,Azumarill,Water
+185-c,Sudowoodo,Rock
+186-c,Politoed,Water
+187-c,Hoppip,Grass Flying
+188-c,Skiploom,Grass Flying
+189-c,Jumpluff,Grass Flying
+190-c,Aipom,Normal
+191-c,Sunkern,Grass
+192-c,Sunflora,Grass
+193-c,Yanma,Bug Flying
+194-c,Wooper,Water Ground
+195-c,Quagsire,Water Ground
+196-c,Espeon,Psychic
+197-c,Umbreon,Dark
+198-c,Murkrow,Dark Flying
+199-c,Slowking,Water Psychic
+200-c,Misdreavus,Ghost
+201-c,Unown,Psychic
+202-c,Wobbuffet,Psychic
+203-c,Girafarig,Normal Psychic
+204-c,Pineco,Bug
+205-c,Forretress,Bug Steel
+206-c,Dunsparce,Normal
+207-c,Gligar,Ground Flying
+208-c,Steelix,Steel Ground
+209-c,Snubbull,Normal
+210-c,Granbull,Normal
+211-c,Qwilfish,Water Poison
+212-c,Scizor,Bug Steel
+213-c,Shuckle,Bug Rock
+214-c,Heracross,Bug Fighting
+215-c,Sneasel,Dark Ice
+216-c,Teddiursa,Normal
+217-c,Ursaring,Normal
+218-c,Slugma,Fire
+219-c,Magcargo,Fire Rock
+220-c,Swinub,Ice Ground
+221-c,Piloswine,Ice Ground
+222-c,Corsola,Water Rock
+223-c,Remoraid,Water
+224-c,Octillery,Water
+225-c,Delibird,Ice Flying
+226-c,Mantine,Water Flying
+227-c,Skarmory,Steel Flying
+228-c,Houndour,Dark Fire
+229-c,Houndoom,Dark Fire
+230-c,Kingdra,Water Dragon
+231-c,Phanpy,Ground
+232-c,Donphan,Ground
+233-c,Porygon2,Normal
+234-c,Stantler,Normal
+235-c,Smeargle,Normal
+236-c,Tyrogue,Fighting
+237-c,Hitmontop,Fighting
+238-c,Smoochum,Ice Psychic
+239-c,Elekid,Electric
+240-c,Magby,Fire
+241-c,Miltank,Normal
+242-c,Blissey,Normal
+243-c,Raikou,Electric
+244-c,Entei,Fire
+245-c,Suicune,Water
+246-c,Larvitar,Rock Ground
+247-c,Pupitar,Rock Ground
+248-c,Tyranitar,Rock Dark
+249-c,Lugia,Psychic Flying
+250-c,Ho-oh,Fire Flying
+251-c,Celebi,Psychic Grass
